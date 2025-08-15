@@ -7,7 +7,6 @@ Me apasiona **diseñar y desarrollar productos digitales** que sean claros, func
 ---
 
 ## 🎬 Sobre mí
-![GIF animado de tecnología](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
 
 - Desarrollo de **APIs y aplicaciones completas** (frontend y backend).  
 - Diseño y prototipado de productos **UX/UI** para proyectos digitales.  
