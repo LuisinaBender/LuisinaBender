@@ -40,9 +40,9 @@ API para **gestión de inventarios de repuestos de autos**
 ---
 
 ## 📫 Contacto
-- ✉️ Email: tuemail@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com)  
-- 🌐 Portfolio: [tuportfolio.com](https://www.tuportfolio.com)
+- ✉️ Email: luisinabender@hotmail.com
+- 🔗 LinkedIn: luisinabender
+- 🌐 Portfolio:
 
 ---
 
