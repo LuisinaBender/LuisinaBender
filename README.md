@@ -41,7 +41,7 @@ API para **gestión de inventarios de repuestos de autos**
 
 ## 📫 Contacto
 - ✉️ Email: luisinabender@hotmail.com
-- 🔗 LinkedIn: luisinabender
+- 🔗 LinkedIn: [luisinabender](https://www.linkedin.com/in/luisina-bender-487613195/)
 - 🌐 Portfolio:
 
 ---
