@@ -31,7 +31,7 @@ Me apasiona **diseñar y desarrollar productos digitales** que sean claros, func
 API para **gestión de inventarios de repuestos de autos**  
 - Tecnologías: **C#, .NET, SQL Server/Azure, API REST**  
 - Funcionalidades: gestión de clientes, productos y proveedores, búsqueda optimizada.  
-[Repositorio LBGeo](https://github.com/LuisinaBender/LBGeo)
+[Repositorio LBGeo]((https://github.com/LuisinaBender/LBGeoBackend))
 
 ### Proyectos UX/UI Freelance
 - Diseño de **sitios web y aplicaciones**, desde wireframes hasta prototipos funcionales.  
@@ -41,7 +41,7 @@ API para **gestión de inventarios de repuestos de autos**
 
 ## 📫 Contacto
 - ✉️ Email: luisinabender@hotmail.com
-- 🔗 LinkedIn: [luisinabender](https://www.linkedin.com/in/luisina-bender-487613195/)
+- 🔗 LinkedIn: https://www.linkedin.com/in/luisina-bender-487613195
 - 🌐 Portfolio:
 
 ---
